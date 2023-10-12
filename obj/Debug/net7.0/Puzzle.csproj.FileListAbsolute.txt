@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\bin\Debug\net7.0\Puzzle.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\bin\Debug\net7.0\Puzzle.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\bin\Debug\net7.0\Puzzle.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\bin\Debug\net7.0\Puzzle.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\bin\Debug\net7.0\Puzzle.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\refint\Puzzle.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\Puzzle.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Puzzle\obj\Debug\net7.0\ref\Puzzle.dll
